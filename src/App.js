@@ -40,24 +40,24 @@ function App() {
   teste
   */
 
-  let n1 = "10"
-  n1 = Number(n1)
+  // let n1 = "10"
+  // n1 = Number(n1)
 
-  let n2 = "oi"
-  n2 = Number(n2)
+  // let n2 = "oi"
+  // n2 = Number(n2)
   
-  const n3 = n2 || 20
-  const n4 = String (n1)
+  // const n3 = n2 || 20
+  // const n4 = String (n1)
 
-  console.log(n1)
-  console.log(typeof n1)
-  console.log(n2)
-  console.log('isNaN',isNaN(n2))
-  console.log(typeof n2)
-  console.log(n3)
-  console.log(typeof n3)
-  console.log(n4)
-  console.log(typeof n4)
+  // console.log(n1)
+  // console.log(typeof n1)
+  // console.log(n2)
+  // console.log('isNaN',isNaN(n2))
+  // console.log(typeof n2)
+  // console.log(n3)
+  // console.log(typeof n3)
+  // console.log(n4)
+  // console.log(typeof n4)
 
   /*
   teste
